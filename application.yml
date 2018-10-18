@@ -1,4 +1,4 @@
-spring:
+﻿spring:
   profiles:
     active:
     - dev
@@ -15,4 +15,5 @@ spring:
 #  请保存为UTF-8格式
  
  
-
+啊啊啊啊
+aaaa
